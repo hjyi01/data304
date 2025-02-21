@@ -6,4 +6,7 @@ embed-resources: true
 
 ## Homework
 
-[HW5](HW5.html)
+* [HW5](hw/HW5.html)
+* [HW6](hw/HW6.html)
+* [HW7](hw/HW7.html)
+* [HW8](hw/HW8.html)
